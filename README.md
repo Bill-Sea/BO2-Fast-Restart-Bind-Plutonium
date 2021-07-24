@@ -9,4 +9,4 @@
 <p>Secondly download the latest release from <a href="https://github.com/yodatron5000/BO2-Fast-Restart-Bind/releases/tag/1.0">here</a></P>
 <h3>Step 2 - Configure The Script</h3>
 <p>Right click on the script file after downloading it and press edit open with Notepad.</p>
-<img src="https://drive.google.com/file/d/11JztsuoBa8SGkoS11v1wOProd_oV7IYH/view?usp=sharing" alt="1" width="500" height="333">
+<img src="https://drive.google.com/uc?export=view&id=11JztsuoBa8SGkoS11v1wOProd_oV7IYH" alt="1" width="500" height="333">
