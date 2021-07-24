@@ -5,7 +5,7 @@
 <h3>Method 2</h3>
 <p>Don't worry I used to have a keyboard from the dark ages where it had no macro function (Follow the steps below)</p>
 <h3>Step 1 - Files Needed</h3>
-<p>Firstly download AutoHotKey from <a href="https://www.autohotkey.com/download/1.1/AutoHotkey_1.1.30.01_setup.exe">here</a></P>Or from <a href="https://www.autohotkey.com/download/1.1/">Mirror</a> download version AutoHotkey_1.1.30.01_setup.exe</P>
+<p>Firstly download AutoHotKey from <a href="https://www.autohotkey.com/download/1.1/AutoHotkey_1.1.30.01_setup.exe">here</a></P>Or from <a href="https://www.autohotkey.com/download/1.1/">Mirror</a> download the version AutoHotkey_1.1.30.01_setup.exe</P>
 <p>Secondly download the latest release from <a href="https://github.com/yodatron5000/BO2-Fast-Restart-Bind/releases/tag/1.0">here</a></P>
 <h3>Step 2 - Configure The Script</h3>
 <p>Right click on the script file after downloading it and press open with Notepad.</p>
