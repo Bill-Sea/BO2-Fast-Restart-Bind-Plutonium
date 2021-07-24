@@ -1,4 +1,5 @@
 <h1>BO2 Fast Restart Bind (Plutonium)</h1>
+<img src="https://drive.google.com/uc?export=view&id=1ms85rVIvTxecxLUrKcSCr8Xo81YSOAXH" alt="icon">
 <h3>Methods</h3>
 <h3>Method 1</h3>
 <p>Buy a keyboard that has a macro function</p>
