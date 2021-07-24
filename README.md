@@ -1,1 +1,1 @@
-<p>BO2 Fast 0Restart Bind</p>
+<h1>BO2 Fast Restart Bind</h1>
