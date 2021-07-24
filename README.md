@@ -14,7 +14,7 @@
 <p>Than Save it</P>
 <!-- <img src="https://drive.google.com/uc?export=view&id=1ckeg1JLTjJvuwAAry0vozzi7jFFUiTdZ" alt="2" width="1000" height="500"> -->
 <h3>Step 3 - Start The Script</h3>
-<p>Move the script to the startup folder you can access the folder by pressing the windows key and r at the same time.</p>
+<p>Move the script to the startup folder you can access the folder by holding down the windows key and pressing r.</p>
 <p>and put %appdata%\Microsoft\Windows\Start Menu\Programs\Startup in the address bar.</p>
 <!-- Script img goes here -->
 <p>Restart your computer.</P>
