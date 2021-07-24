@@ -1,6 +1,6 @@
 <h1>BO2 Fast Restart Bind (Plutonium)</h1>
 <img src="https://cdn.discordapp.com/attachments/338155793968922635/868397368603713607/Fast_Restart_Icon.png" alt="icon">
-<h3>Methods</h3>
+<h2>Methods</h2>
 <h3>Method 1</h3>
 <p>Buy a keyboard that has a macro function</p>
 <h3>Method 2</h3>
