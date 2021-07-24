@@ -1,4 +1,4 @@
-<h1>BO2 Fast Restart Bind</h1>
+<h1>BO2 Fast Restart Bind (Plutonium)</h1>
 <h3>Methods</h3>
 <h3>Method 1</h3>
 <p>Buy a keyboard that has a macro function</p>
