@@ -9,6 +9,6 @@
 <p>Secondly download the latest release from <a href="https://github.com/yodatron5000/BO2-Fast-Restart-Bind/releases/tag/1.0">here</a></P>
 <h3>Step 2 - Configure The Script</h3>
 <p>Right click on the script file after downloading it and press open with Notepad.</p>
-<img src="https://drive.google.com/uc?export=view&id=1ckeg1JLTjJvuwAAry0vozzi7jFFUiTdZ" alt="1" width="1000" height="500">
+<img src="https://drive.google.com/uc?export=view&id=11JztsuoBa8SGkoS11v1wOProd_oV7IYH" alt="1" width="1000" height="500">
 <p>Feel free to change the / in the script to a key that you would like to use to restart the match.</p>
 <img src="https://drive.google.com/uc?export=view&id=1ckeg1JLTjJvuwAAry0vozzi7jFFUiTdZ" alt="2" width="1000" height="500">
