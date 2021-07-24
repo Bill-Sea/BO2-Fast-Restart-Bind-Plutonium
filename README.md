@@ -1,2 +1,3 @@
 <h1>BO2 Fast Restart Bind</h1>
-<h3>HI</h3>
+<h3>Step 1 - Files Needed</h3>
+<p>Firstly download AutoHotKey from<a> href="https://www.autohotkey.com/download/1.1/AutoHotkey_1.1.30.01_setup.exe">here</a></P>
