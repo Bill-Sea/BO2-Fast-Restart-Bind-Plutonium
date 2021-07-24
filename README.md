@@ -19,4 +19,4 @@
 <!-- Script img goes here -->
 <p>Restart your computer.</P>
 <h3>Step 4 - Finish</h3>
-<p>The script will be running in the background but the restart bind will only activate once in BO2 Zombies</p>
+<p>The script will be running in the background but the restart bind will only activate automatically once in BO2 Zombies</p>
